@@ -1,0 +1,16 @@
+# ninja log v6
+18	500	1728823355053498859	CMakeFiles/PR6_3.dir/src/h.cpp.o	511ce2d468c2d13f
+3	292	1728823455967639688	CMakeFiles/PR6_3.dir/src/main.cpp.o	f1f91d1e0e82e166
+293	325	1728823456256706024	PR6_3	dd4d462c0cc12267
+4	280	1728823669881980598	CMakeFiles/PR6_3.dir/src/h.cpp.o	13e22812dd605f40
+3	290	1728823669881624568	CMakeFiles/PR6_3.dir/src/main.cpp.o	5a0c9b297ed5b61a
+291	321	1728823670168767754	PR6_3	dd4d462c0cc12267
+5	524	1728914245120573869	CMakeFiles/PR6_3_tests.dir/src/h.cpp.o	3a2e46e1bfb4f25d
+5	691	1728914245120390752	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	cefc6c8532ca0b09
+6	707	1728914245121204093	CMakeFiles/PR6_3_tests.dir/tests/test_h.cpp.o	dcc755c568ef422d
+4	1761	1728914245119969685	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	54b6a15b254c324a
+1761	1798	1728914246876547723	lib/libgtest.a	b51b69e6de22023b
+1798	1816	1728914246913637584	lib/libgtest_main.a	ddd85a377c936fa9
+1816	2243	1728914247357266473	PR6_3_tests	bccad67eae042d50
+1816	2243	1728914247357266473	PR6_3_tests[1]_tests.cmake	bccad67eae042d50
+1816	2243	1728914247357266473	/Users/yura_kulakovskyi/Documents/C++/AP/PR6/PR6_3_iter/cmake-build-debug/PR6_3_tests[1]_tests.cmake	bccad67eae042d50
